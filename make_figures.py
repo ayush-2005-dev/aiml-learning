@@ -2,7 +2,8 @@ import math
 import os
 
 import matplotlib.pyplot as plt
-plt.rcParams["font.family"] = ["Yu Gothic", "Meiryo", "MS Gothic", "DejaVu Sans"]
+plt.rcParams["font.family"] = ["Yu Gothic", "Meiryo", "MS Gothic", "Hiragino Sans",
+                               "Noto Sans CJK JP", "IPAexGothic", "DejaVu Sans"]
 
 N_TEST = 4327
 
